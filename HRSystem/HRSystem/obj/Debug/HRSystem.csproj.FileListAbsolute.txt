@@ -1,0 +1,31 @@
+c:\users\nue\documents\visual studio 2012\Projects\HRSystem\HRSystem\bin\Debug\HRSystem.exe.config
+c:\users\nue\documents\visual studio 2012\Projects\HRSystem\HRSystem\bin\Debug\HRSystem.exe
+c:\users\nue\documents\visual studio 2012\Projects\HRSystem\HRSystem\bin\Debug\HRSystem.pdb
+c:\users\nue\documents\visual studio 2012\Projects\HRSystem\HRSystem\obj\Debug\HRSystem.add.resources
+c:\users\nue\documents\visual studio 2012\Projects\HRSystem\HRSystem\obj\Debug\HRSystem.Form1.resources
+c:\users\nue\documents\visual studio 2012\Projects\HRSystem\HRSystem\obj\Debug\HRSystem.Properties.Resources.resources
+c:\users\nue\documents\visual studio 2012\Projects\HRSystem\HRSystem\obj\Debug\HRSystem.csproj.GenerateResource.Cache
+c:\users\nue\documents\visual studio 2012\Projects\HRSystem\HRSystem\obj\Debug\HRSystem.exe
+c:\users\nue\documents\visual studio 2012\Projects\HRSystem\HRSystem\obj\Debug\HRSystem.pdb
+C:\Users\Nue\Documents\Visual Studio 2012\Projects\HRSystem\HRSystem\obj\Debug\HRSystem.display.resources
+C:\Users\Nue\Documents\Visual Studio 2012\Projects\HRSystem\HRSystem\obj\Debug\HRSystem.depart.resources
+C:\Users\Nue\Documents\Visual Studio 2012\Projects\HRSystem\HRSystem\obj\Debug\HRSystem.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\HRSystem\HRSystem\bin\Debug\HRSystem.exe.config
+C:\Users\HP\Desktop\HRSystem\HRSystem\obj\Debug\HRSystem.exe
+C:\Users\HP\Desktop\HRSystem\HRSystem\obj\Debug\HRSystem.pdb
+C:\Users\HP\Desktop\HRSystem\HRSystem\obj\Debug\HRSystem.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\HRSystem\HRSystem\obj\Debug\HRSystem.add.resources
+C:\Users\HP\Desktop\HRSystem\HRSystem\obj\Debug\HRSystem.depart.resources
+C:\Users\HP\Desktop\HRSystem\HRSystem\obj\Debug\HRSystem.display.resources
+C:\Users\HP\Desktop\HRSystem\HRSystem\obj\Debug\HRSystem.Form1.resources
+C:\Users\HP\Desktop\HRSystem\HRSystem\obj\Debug\HRSystem.Properties.Resources.resources
+C:\Users\HP\Desktop\HRSystem\HRSystem\obj\Debug\HRSystem.csproj.GenerateResource.Cache
+H:\BOOKS\projects\HRSystem\HRSystem\bin\Debug\HRSystem.exe.config
+H:\BOOKS\projects\HRSystem\HRSystem\obj\Debug\HRSystem.exe
+H:\BOOKS\projects\HRSystem\HRSystem\obj\Debug\HRSystem.csprojResolveAssemblyReference.cache
+H:\BOOKS\projects\HRSystem\HRSystem\obj\Debug\HRSystem.add.resources
+H:\BOOKS\projects\HRSystem\HRSystem\obj\Debug\HRSystem.depart.resources
+H:\BOOKS\projects\HRSystem\HRSystem\obj\Debug\HRSystem.display.resources
+H:\BOOKS\projects\HRSystem\HRSystem\obj\Debug\HRSystem.Form1.resources
+H:\BOOKS\projects\HRSystem\HRSystem\obj\Debug\HRSystem.Properties.Resources.resources
+H:\BOOKS\projects\HRSystem\HRSystem\obj\Debug\HRSystem.csproj.GenerateResource.Cache
